@@ -22,7 +22,7 @@ body {
 
 .images {
   display: flex;
-  width: 50%;
+  width: 40%;
   border: 3px inset blue;
 }
 
